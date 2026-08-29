@@ -1,0 +1,11 @@
+opp_id,lead_id,lead_source,rep_name,region,segment,stage,deal_amount,actual_closed_amount,created_date,close_date,win_status,days_in_stage
+OPP101,LD801,Website,Sarah Jenkins,North America,Enterprise,Closed Won,120000,120000,2026-01-10,2026-02-15,Won,12
+OPP102,LD802,LinkedIn,David Chen,North America,Mid-Market,Proposal,85000,0,2026-01-14,,In Progress,28
+OPP103,LD804,Webinar,Marcus Vance,APAC,Mid-Market,Closed Lost,45000,0,2026-01-18,2026-02-05,Lost,14
+OPP104,LD806,Website,Sarah Jenkins,North America,Enterprise,Negotiation,210000,0,2026-01-28,,In Progress,18
+OPP105,LD807,LinkedIn,David Chen,North America,Mid-Market,Qualification,60000,0,2026-01-30,,In Progress,35
+OPP106,LD808,Cold Outreach,Elena Rostova,EMEA,Enterprise,Closed Won,175000,175000,2026-02-05,2026-02-28,Won,10
+OPP107,LD810,Referral,Priya Patel,APAC,Enterprise,Proposal,130000,0,2026-02-10,,In Progress,22
+OPP108,LD812,Website,Elena Rostova,EMEA,Enterprise,Discovery,95000,0,2026-02-12,,In Progress,8
+OPP109,LD815,Cold Outreach,Marcus Vance,APAC,Mid-Market,Qualification,75000,0,2026-02-15,,In Progress,42
+OPP110,LD818,LinkedIn,Sarah Jenkins,North America,Enterprise,Closed Won,250000,240000,2026-02-01,2026-02-27,Won,15
